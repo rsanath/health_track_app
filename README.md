@@ -1,29 +1,16 @@
-# README #
+# Health Tracker Application #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+A mobile application to gather and accumulate users health related data.
 
-### What is this repository for? ###
+### Project Info ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Version - 0.0.1
 
-### How do I get set up? ###
+### Set up ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Copy `git clone https://_sanath@bitbucket.org/_sanath/health_track_app.git`
+* Paste into your terminal
+* Go inside the cloned directory
+* Run `npm i`
+* Then `react-native run-ios` or `react-native run-android`
+* Make sure you have an emulator running or an actual device connect before running `react-native run-android`
